@@ -188,7 +188,7 @@ let app = new Vue({
                                 link: "",
                             },
                             {
-                                criador: "Enzo Ramos de Souza",
+                                criador: "Thiago Rodrigues Lacerda",
                                 nomeJogo: "Projeto Final",
                                 link: "",
                             }
